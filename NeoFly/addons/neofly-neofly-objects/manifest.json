@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Neofly Objects",
+  "manufacturer": "",
+  "creator": "Neofly",
+  "package_version": "0.6.0",
+  "minimum_game_version": "1.15.8",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{466792c6-0b23-497d-861d-b455f6329006}">
+	<LODS>
+		<LOD MinSize="0" ModelFile="Neoflycargo_flammable_u_2.gltf"></LOD>
+	</LODS>
+	<Animation name="Neoflycargo_flammable_u_2" guid="eb750998-0657-43d3-81d1-08d5abf05f1a" type="Standard" typeParam="Autoplay" />
+</ModelInfo>

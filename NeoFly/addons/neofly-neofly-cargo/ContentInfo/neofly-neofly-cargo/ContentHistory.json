@@ -1,0 +1,10 @@
+{
+  "package-name": "neofly-neofly-cargo",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "NEOF2",
+      "revision": 1
+    }
+  ]
+}

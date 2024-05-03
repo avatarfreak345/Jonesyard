@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{30d030e7-3f72-4686-b629-bf867bb71ed5}">
+	<LODS>
+		<LOD MinSize="0" ModelFile="Neoflysea1.gltf"></LOD>
+	</LODS>
+	<Animation name="Neoflysea1nla1a" guid="30d030e7-3f72-4686-b629-bf867bb70001" type="Standard" typeParam="Autoplay" />
+	<Animation name="Neoflysea1nla1b" guid="30d030e7-3f72-4686-b629-bf867bb70002" type="Standard" typeParam="Autoplay" />
+	<Animation name="Neoflysea1nla1c" guid="30d030e7-3f72-4686-b629-bf867bb70003" type="Standard" typeParam="Autoplay" />
+</ModelInfo>

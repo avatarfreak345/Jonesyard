@@ -1,0 +1,3304 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/neofly-neofly-objects/Thumbnail.jpg",
+      "size": 63653,
+      "date": 132600286669750437
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/model/model.CFG",
+      "size": 42,
+      "date": 132633429880241526
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/model/Neoflycrashedcar1.bin",
+      "size": 805044,
+      "date": 132633491458356316
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/model/Neoflycrashedcar1.gltf",
+      "size": 4708,
+      "date": 132633491458356316
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/model/Neoflycrashedcar1.xml",
+      "size": 209,
+      "date": 132633430006359645
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/sim.cfg",
+      "size": 122,
+      "date": 132633429744423259
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/TEXTURE/BUS01_A.PNG.DDS",
+      "size": 699192,
+      "date": 132633491440417691
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/TEXTURE/BUS01_A.PNG.DDS.json",
+      "size": 102,
+      "date": 132633491440397746
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/TEXTURE/BUS01_A_REF.PNG.DDS",
+      "size": 349700,
+      "date": 132633491457648198
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/TEXTURE/BUS01_A_REF.PNG.DDS.json",
+      "size": 191,
+      "date": 132633491457398869
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/TEXTURE/BUS01_B.PNG.DDS",
+      "size": 87528,
+      "date": 132633491437655077
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar1/TEXTURE/BUS01_B.PNG.DDS.json",
+      "size": 102,
+      "date": 132633491437405744
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar2/model/model.CFG",
+      "size": 42,
+      "date": 132633477513361898
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar2/model/Neoflycrashedcar2.bin",
+      "size": 47441628,
+      "date": 132633497253884087
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar2/model/Neoflycrashedcar2.gltf",
+      "size": 69257,
+      "date": 132633497253894058
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar2/model/Neoflycrashedcar2.xml",
+      "size": 209,
+      "date": 132633477404344855
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar2/sim.cfg",
+      "size": 122,
+      "date": 132633477081152793
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/model/model.CFG",
+      "size": 42,
+      "date": 132633897375626522
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/model/Neoflycrashedcar3.bin",
+      "size": 2099832,
+      "date": 132633933368803630
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/model/Neoflycrashedcar3.gltf",
+      "size": 9551,
+      "date": 132633933368833552
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/model/Neoflycrashedcar3.xml",
+      "size": 209,
+      "date": 132633897683460635
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/sim.cfg",
+      "size": 122,
+      "date": 132633897333343952
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_LAMBERT1_BASECOLOR.PNG.DDS",
+      "size": 11184952,
+      "date": 132633933345451592
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_LAMBERT1_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132633933345391759
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_LAMBERT1_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132633933358202859
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_LAMBERT1_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132633933358053258
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_PLASTIC_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132633933365504974
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_PLASTIC_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132633933365455107
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_PLASTIC_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132633933314638298
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedcar3/TEXTURE/NISSAN1LOWFIX_PLASTIC_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132633933314598401
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/model/model.CFG",
+      "size": 45,
+      "date": 132608459246826230
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/model/Neoflycrashedplane10.bin",
+      "size": 84588,
+      "date": 132608459871411311
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/model/Neoflycrashedplane10.gltf",
+      "size": 7608,
+      "date": 132608459871461179
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/model/Neoflycrashedplane10.xml",
+      "size": 212,
+      "date": 132608459193920971
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/sim.cfg",
+      "size": 125,
+      "date": 132608459320212704
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/TEXTURE/FILE2.PNG.DDS",
+      "size": 699192,
+      "date": 132608459868892859
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/TEXTURE/FILE2.PNG.DDS.json",
+      "size": 102,
+      "date": 132608459868842983
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/TEXTURE/HUEYTXTR3.PNG.DDS",
+      "size": 699192,
+      "date": 132608459871112118
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane10/TEXTURE/HUEYTXTR3.PNG.DDS.json",
+      "size": 102,
+      "date": 132608459871062254
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/model/model.CFG",
+      "size": 44,
+      "date": 132607442850221367
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/model/Neoflycrashedplane1.bin",
+      "size": 3075522,
+      "date": 132607581015925181
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/model/Neoflycrashedplane1.gltf",
+      "size": 698748,
+      "date": 132607581016014941
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/model/Neoflycrashedplane1.xml",
+      "size": 211,
+      "date": 132607454039428107
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/sim.cfg",
+      "size": 124,
+      "date": 132607441491767444
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/AI.PNG.DDS",
+      "size": 43832,
+      "date": 132607581011282295
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/AI.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581011242400
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/ALT.PNG.DDS",
+      "size": 349672,
+      "date": 132607581002200950
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/ALT.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581002151083
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/ASI.PNG.DDS",
+      "size": 699192,
+      "date": 132607581006469837
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/ASI.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581006419961
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/CAD.PNG.DDS",
+      "size": 174904,
+      "date": 132607581011910742
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/CAD.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581011860873
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/CLOCK.PNG.DDS",
+      "size": 87528,
+      "date": 132607581010883363
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/CLOCK.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581010833490
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/COLORS.PNG.DDS",
+      "size": 43832,
+      "date": 132607581011082824
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/COLORS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581011042929
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/COMPASS.PNG.DDS",
+      "size": 43832,
+      "date": 132607581010100389
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/COMPASS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581010050522
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/DIGITS.PNG.DDS",
+      "size": 11080,
+      "date": 132607581012040392
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/DIGITS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581012000493
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/ENGINE.PNG.DDS",
+      "size": 699192,
+      "date": 132607581003497661
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/ENGINE.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581003437818
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/GEAR.PNG.DDS",
+      "size": 43832,
+      "date": 132607581004569846
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/GEAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581004519979
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/GPS-IND.PNG.DDS",
+      "size": 43832,
+      "date": 132607581010289886
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/GPS-IND.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581010240016
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/INTERIOR.PNG.DDS",
+      "size": 174904,
+      "date": 132607581001512790
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/INTERIOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581001462923
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KI227.PNG.DDS",
+      "size": 87528,
+      "date": 132607581008918340
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KI227.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581008858497
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KI252A.PNG.DDS",
+      "size": 349672,
+      "date": 132607581009861037
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KI252A.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581009811166
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KI266.PNG.DDS",
+      "size": 43848,
+      "date": 132607581011501704
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KI266.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581011461812
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KMA20.PNG.DDS",
+      "size": 87528,
+      "date": 132607581012319646
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KMA20.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581012269778
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KRA10A.PNG.DDS",
+      "size": 43832,
+      "date": 132607581003677177
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KRA10A.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581003637280
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KT70.PNG.DDS",
+      "size": 21992,
+      "date": 132607581001054018
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KT70.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581001004152
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KX165.PNG.DDS",
+      "size": 174904,
+      "date": 132607581007163031
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/KX165.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581007103190
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/PANEL.PNG.DDS",
+      "size": 87528,
+      "date": 132607581008649060
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/PANEL.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581008609165
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/PEDALS.PNG.DDS",
+      "size": 21992,
+      "date": 132607581005372767
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/PEDALS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581005332879
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/SEAT.PNG.DDS",
+      "size": 174904,
+      "date": 132607581004360405
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/SEAT.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581004300565
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/TEXTURE.PNG.DDS",
+      "size": 699192,
+      "date": 132607581013611248
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581013561379
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/THROTTLES.PNG.DDS",
+      "size": 43832,
+      "date": 132607581003866669
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/THROTTLES.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581003816802
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/TURN.PNG.DDS",
+      "size": 87528,
+      "date": 132607581010599055
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/TURN.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581010549192
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/VOR.PNG.DDS",
+      "size": 87528,
+      "date": 132607581000904427
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/VOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581000854552
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/VSI.PNG.DDS",
+      "size": 43832,
+      "date": 132607581006679270
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/VSI.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581006639375
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/YOKE.PNG.DDS",
+      "size": 1398256,
+      "date": 132607581008379778
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane1/TEXTURE/YOKE.PNG.DDS.json",
+      "size": 119,
+      "date": 132607581008329907
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/model/model.CFG",
+      "size": 44,
+      "date": 132607442909713479
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/model/Neoflycrashedplane2.bin",
+      "size": 2994186,
+      "date": 132607581031569177
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/model/Neoflycrashedplane2.gltf",
+      "size": 684187,
+      "date": 132607581031658937
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/model/Neoflycrashedplane2.xml",
+      "size": 211,
+      "date": 132607455273729449
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/sim.cfg",
+      "size": 124,
+      "date": 132607441521533255
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/AI.PNG.DDS",
+      "size": 43832,
+      "date": 132607581026901397
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/AI.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581026851528
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/ALT.PNG.DDS",
+      "size": 349672,
+      "date": 132607581018124371
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/ALT.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581018064525
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/ASI.PNG.DDS",
+      "size": 699192,
+      "date": 132607581021894544
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/ASI.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581021844676
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/CAD.PNG.DDS",
+      "size": 174904,
+      "date": 132607581027559765
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/CAD.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581027479976
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/CLOCK.PNG.DDS",
+      "size": 87528,
+      "date": 132607581026422748
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/CLOCK.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581026357788
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/COLORS.PNG.DDS",
+      "size": 43832,
+      "date": 132607581026672014
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/COLORS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581026632119
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/COMPASS.PNG.DDS",
+      "size": 43832,
+      "date": 132607581025589850
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/COMPASS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581025549951
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/DIGITS.PNG.DDS",
+      "size": 11080,
+      "date": 132607581027694474
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/DIGITS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581027674530
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/ENGINE.PNG.DDS",
+      "size": 699192,
+      "date": 132607581019351211
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/ENGINE.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581019281399
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/GEAR.PNG.DDS",
+      "size": 43832,
+      "date": 132607581020642827
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/GEAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581020563034
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/GPS-IND.PNG.DDS",
+      "size": 43832,
+      "date": 132607581025819235
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/GPS-IND.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581025769366
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/INTERIOR.PNG.DDS",
+      "size": 174904,
+      "date": 132607581017456732
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/INTERIOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581017406289
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KI227.PNG.DDS",
+      "size": 87528,
+      "date": 132607581024258350
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KI227.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581024198506
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KI252A.PNG.DDS",
+      "size": 349672,
+      "date": 132607581025390383
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KI252A.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581025330542
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KI266.PNG.DDS",
+      "size": 43848,
+      "date": 132607581027110844
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KI266.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581027060968
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KMA20.PNG.DDS",
+      "size": 87528,
+      "date": 132607581027933839
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KMA20.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581027883966
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KRA10A.PNG.DDS",
+      "size": 43832,
+      "date": 132607581019745219
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KRA10A.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581019490835
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KT70.PNG.DDS",
+      "size": 21992,
+      "date": 132607581017012278
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KT70.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581016962407
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KX165.PNG.DDS",
+      "size": 174904,
+      "date": 132607581022582699
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/KX165.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581022562751
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/PANEL.PNG.DDS",
+      "size": 87528,
+      "date": 132607581024009019
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/PANEL.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581023959149
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/PEDALS.PNG.DDS",
+      "size": 21992,
+      "date": 132607581020792423
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/PEDALS.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581020742554
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/SEAT.PNG.DDS",
+      "size": 174904,
+      "date": 132607581020413441
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/SEAT.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581020363566
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/TEXTURE.PNG.DDS",
+      "size": 699192,
+      "date": 132607581029260288
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581029210418
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/THROTTLES.PNG.DDS",
+      "size": 43832,
+      "date": 132607581019974615
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/THROTTLES.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581019924739
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/TURN.PNG.DDS",
+      "size": 87528,
+      "date": 132607581026108463
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/TURN.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581026038644
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/VOR.PNG.DDS",
+      "size": 87528,
+      "date": 132607581016862675
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/VOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581016822779
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/VSI.PNG.DDS",
+      "size": 43832,
+      "date": 132607581022113954
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/VSI.PNG.DDS.json",
+      "size": 102,
+      "date": 132607581022064087
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/YOKE.PNG.DDS",
+      "size": 1398256,
+      "date": 132607581023749580
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane2/TEXTURE/YOKE.PNG.DDS.json",
+      "size": 119,
+      "date": 132607581023699712
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/model/model.CFG",
+      "size": 44,
+      "date": 132607442955552739
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/model/Neoflycrashedplane3.bin",
+      "size": 921168,
+      "date": 132607581072743452
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/model/Neoflycrashedplane3.gltf",
+      "size": 11793,
+      "date": 132607581072803282
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/model/Neoflycrashedplane3.xml",
+      "size": 211,
+      "date": 132607455306053976
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/sim.cfg",
+      "size": 124,
+      "date": 132607508038364663
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/ALTBODY_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581047803919
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/ALTBODY_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132607581047744075
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/ALTBODY_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132607581035440266
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/ALTBODY_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132607581035360279
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/ALTBODY_ROUGHNESS.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581059378283
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/ALTBODY_ROUGHNESS.JPG.DDS.json",
+      "size": 191,
+      "date": 132607581059318447
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/INTERIOR_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581056600505
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/INTERIOR_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132607581056540661
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/INTERIOR_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132607581058151424
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/INTERIOR_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132607581058071630
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/MAIN_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581065307594
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/MAIN_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132607581065227815
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/MAIN_METALLIC.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581072124707
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/MAIN_METALLIC.JPG.DDS.json",
+      "size": 191,
+      "date": 132607581072064919
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/MAIN_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132607581033783358
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/MAIN_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132607581033713543
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/SEATS_AND_STUFF_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581069511546
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/SEATS_AND_STUFF_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132607581069461676
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/SEATS_AND_STUFF_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132607581071057558
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/SEATS_AND_STUFF_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132607581070987740
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/SEATS_AND_STUFF_ROUGHNESS.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581039270927
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/SEATS_AND_STUFF_ROUGHNESS.JPG.DDS.json",
+      "size": 102,
+      "date": 132607581039221057
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/XTRA_BASE_COLOR-1.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581052087518
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/XTRA_BASE_COLOR-1.JPG.DDS.json",
+      "size": 102,
+      "date": 132607581052037653
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/XTRA_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132607581043609763
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/XTRA_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132607581043549919
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/XTRA_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132607581061123613
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane3/TEXTURE/XTRA_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132607581061053797
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/model/model.CFG",
+      "size": 44,
+      "date": 132607443025527821
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/model/Neoflycrashedplane4.bin",
+      "size": 952500,
+      "date": 132608443932083722
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/model/Neoflycrashedplane4.gltf",
+      "size": 13469,
+      "date": 132608443932133590
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/model/Neoflycrashedplane4.xml",
+      "size": 211,
+      "date": 132607525164174115
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/sim.cfg",
+      "size": 124,
+      "date": 132607525274163551
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/ALTBODY_BASE_COLOR2.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443927954581
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/ALTBODY_BASE_COLOR2.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443927884761
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/INTERIOR_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443897448345
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/INTERIOR_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443897243852
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/INTERIOR_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443899687716
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/INTERIOR_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443899607924
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/MAIN_BASE_COLOR2.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443911697780
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/MAIN_BASE_COLOR2.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443911608022
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/MAIN_METALLIC.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443930044087
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/MAIN_METALLIC.JPG.DDS.json",
+      "size": 191,
+      "date": 132608443929974272
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/MAIN_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443877464840
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/MAIN_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443877305265
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/SEATS_AND_STUFF_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443918873799
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/SEATS_AND_STUFF_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443918784042
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/SEATS_AND_STUFF_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443921446919
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/SEATS_AND_STUFF_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443921257420
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/SEATS_AND_STUFF_ROUGHNESS.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443884088155
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/SEATS_AND_STUFF_ROUGHNESS.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443884028316
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/XTRA_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443891169794
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/XTRA_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443891040135
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/XTRA_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443902755562
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane4/TEXTURE/XTRA_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443902475337
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/model/model.CFG",
+      "size": 44,
+      "date": 132607443071361176
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/model/Neoflycrashedplane5.bin",
+      "size": 949770,
+      "date": 132608443991244066
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/model/Neoflycrashedplane5.gltf",
+      "size": 14020,
+      "date": 132608443991303896
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/model/Neoflycrashedplane5.xml",
+      "size": 211,
+      "date": 132607455395098500
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/sim.cfg",
+      "size": 124,
+      "date": 132607441765701340
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/ALTBODY_BASE_COLOR3.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443957951456
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/ALTBODY_BASE_COLOR3.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443957891619
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/INTERIOR_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443971416425
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/INTERIOR_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443971336622
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/INTERIOR_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443974488314
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/INTERIOR_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443974258929
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/MAIN_BASE_COLOR3.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443940546292
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/MAIN_BASE_COLOR3.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443940476464
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/MAIN_METALLIC.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443989088195
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/MAIN_METALLIC.JPG.DDS.json",
+      "size": 191,
+      "date": 132608443989028351
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/MAIN_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443943658125
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/MAIN_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443943558387
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/SEATS_AND_STUFF_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443983395644
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/SEATS_AND_STUFF_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443983295911
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/SEATS_AND_STUFF_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443986996015
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/SEATS_AND_STUFF_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443986567162
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/SEATS_AND_STUFF_ROUGHNESS.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443950126778
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/SEATS_AND_STUFF_ROUGHNESS.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443950046988
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/XTRA_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132608443964624030
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/XTRA_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132608443964464449
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/XTRA_NORMAL_DIRECTX.JPG.DDS",
+      "size": 5592560,
+      "date": 132608443976797367
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane5/TEXTURE/XTRA_NORMAL_DIRECTX.JPG.DDS.json",
+      "size": 160,
+      "date": 132608443976717582
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/model/model.CFG",
+      "size": 44,
+      "date": 132607495655582455
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/model/Neoflycrashedplane6.bin",
+      "size": 2643588,
+      "date": 132607560134999236
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/model/Neoflycrashedplane6.gltf",
+      "size": 15467,
+      "date": 132607560135039132
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/model/Neoflycrashedplane6.xml",
+      "size": 211,
+      "date": 132607495903833364
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/sim.cfg",
+      "size": 124,
+      "date": 132607495488156929
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560132505913
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560132446069
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_RIM_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560098635464
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_RIM_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560098585594
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_EXHAUST_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560115580954
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_EXHAUST_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560115521110
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_FINS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560111407068
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_FINS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560111347221
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_FLAPS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560107188234
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_FLAPS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560107138362
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_FUSEL_LODGE_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560094317019
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_FUSEL_LODGE_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560094257174
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560119889424
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560119839555
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_WINGS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560128346927
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_WINGS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560128297052
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_WINDOWFRAME_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560124148030
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_WINDOWFRAME_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560124088188
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_WINGS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560102923988
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane6/TEXTURE/AUROPLANE_SMOOTH_M_WINGS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560102874117
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/model/model.CFG",
+      "size": 44,
+      "date": 132607554398585360
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/model/Neoflycrashedplane7.bin",
+      "size": 2658960,
+      "date": 132607560180662959
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/model/Neoflycrashedplane7.gltf",
+      "size": 15779,
+      "date": 132607560180702855
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/model/Neoflycrashedplane7.xml",
+      "size": 211,
+      "date": 132607554655458265
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/sim.cfg",
+      "size": 124,
+      "date": 132607553670270755
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560178299150
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560178239307
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_RIM_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560143895434
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_RIM_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560143835590
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_EXHAUST_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560160995108
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_EXHAUST_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560160935261
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_FINS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560156726531
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_FINS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560156666682
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_FLAPS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560152427921
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_FLAPS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560152363015
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_FUSEL_LODGE_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560139557043
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_FUSEL_LODGE_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560139477254
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560165198919
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560165149047
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_WINGS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560173925798
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_WINGS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560173875928
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_WINDOWFRAME_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560169527339
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_WINDOWFRAME_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560169457522
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_WINGS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607560148248852
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane7/TEXTURE/AUROPLANE_SMOOTH_M_WINGS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607560148189009
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane8/model/model.CFG",
+      "size": 44,
+      "date": 132608343629885916
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane8/model/Neoflycrashedplane8.bin",
+      "size": 3685898,
+      "date": 132608402297396999
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane8/model/Neoflycrashedplane8.gltf",
+      "size": 185270,
+      "date": 132608402297456845
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane8/model/Neoflycrashedplane8.xml",
+      "size": 211,
+      "date": 132608344788097451
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane8/sim.cfg",
+      "size": 124,
+      "date": 132608343482381959
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane8/TEXTURE/TEXTURE_PNG.PNG.DDS",
+      "size": 11184952,
+      "date": 132608402292340524
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane8/TEXTURE/TEXTURE_PNG.PNG.DDS.json",
+      "size": 102,
+      "date": 132608402292210894
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane9/model/model.CFG",
+      "size": 44,
+      "date": 132608343694728625
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane9/model/Neoflycrashedplane9.bin",
+      "size": 3613538,
+      "date": 132608391865454485
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane9/model/Neoflycrashedplane9.gltf",
+      "size": 173923,
+      "date": 132608391865514323
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane9/model/Neoflycrashedplane9.xml",
+      "size": 211,
+      "date": 132608344355814600
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane9/sim.cfg",
+      "size": 124,
+      "date": 132608343541305841
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane9/TEXTURE/TEXTURE2.PNG.DDS",
+      "size": 11184952,
+      "date": 132608391860477792
+    },
+    {
+      "path": "SimObjects/MISC/Neoflycrashedplane9/TEXTURE/TEXTURE2.PNG.DDS.json",
+      "size": 102,
+      "date": 132608391860298270
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/model/model.CFG",
+      "size": 34,
+      "date": 132610950992904860
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/model/Neoflyscene1.bin",
+      "size": 2955968,
+      "date": 132610978919450445
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/model/Neoflyscene1.gltf",
+      "size": 126908,
+      "date": 132610978919510284
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/model/Neoflyscene1.xml",
+      "size": 319,
+      "date": 132610952783619834
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/sim.cfg",
+      "size": 106,
+      "date": 132610949037737025
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/CHVAN_BODY_1_BASECOLOR.PNG.DDS",
+      "size": 11184952,
+      "date": 132610978914992006
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/CHVAN_BODY_1_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132610978914861960
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/CHVAN_BODY_1_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132610978858254012
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/CHVAN_BODY_1_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978858074491
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/CHVAN_CHROME_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132610978799068466
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/CHVAN_CHROME_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978798958762
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/DEFAULTMATERIAL_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132610978842123067
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/DEFAULTMATERIAL_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132610978841963491
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/DEFAULTMATERIAL_METALLIC.JPG.DDS",
+      "size": 2796344,
+      "date": 132610978916391391
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/DEFAULTMATERIAL_METALLIC.JPG.DDS.json",
+      "size": 191,
+      "date": 132610978916331349
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/DEFAULTMATERIAL_NORMAL_OPENGL.JPG.DDS",
+      "size": 5592560,
+      "date": 132610978813379925
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/DEFAULTMATERIAL_NORMAL_OPENGL.JPG.DDS.json",
+      "size": 160,
+      "date": 132610978813209969
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978843844041
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978843714387
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132610978916851171
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132610978916801322
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978826646623
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978826556670
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_SPECULAR.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978891316618
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BEARD_SPECULAR.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978891206909
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BODY_DIFFUSE.PNG.DDS",
+      "size": 5592560,
+      "date": 132610978887347098
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BODY_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978887197500
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BODY_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132610978862343230
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BODY_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978862253469
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BOTTOM_DIFFUSE.PNG.DDS",
+      "size": 349680,
+      "date": 132610978823427333
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BOTTOM_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978823367287
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BOTTOM_GLOSS.PNG.DDS",
+      "size": 174904,
+      "date": 132610978810660878
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BOTTOM_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132610978810560931
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BOTTOM_NORMAL.PNG.DDS",
+      "size": 349680,
+      "date": 132610978799517268
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_BOTTOM_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978799457429
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978808672877
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978808543215
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132610978806678215
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132610978806548551
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978833333739
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978833233672
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_SPECULAR.PNG.DDS",
+      "size": 699192,
+      "date": 132610978828095678
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_EYEWEAR_SPECULAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132610978828035631
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978803845796
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978803736079
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132610978804464140
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132610978804384348
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978845070758
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978844891237
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_SPECULAR.PNG.DDS",
+      "size": 699192,
+      "date": 132610978810261003
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_HAT_SPECULAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132610978810201159
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_MOUSTACHE_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978830334321
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_MOUSTACHE_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978830214248
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_MOUSTACHE_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132610978834585488
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_MOUSTACHE_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132610978834535008
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_MOUSTACHE_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978822817727
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_MOUSTACHE_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978822707661
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_SHOES_DIFFUSE.PNG.DDS",
+      "size": 699192,
+      "date": 132610978825126921
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_SHOES_DIFFUSE.PNG.DDS.json",
+      "size": 102,
+      "date": 132610978825036946
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_SHOES_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132610978796644956
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_SHOES_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132610978796545220
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_SHOES_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978834094235
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_SHOES_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978834023465
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_DIFFUSE2.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978889351738
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_DIFFUSE2.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978889242027
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_GLOSS.PNG.DDS",
+      "size": 1398276,
+      "date": 132610978872925229
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132610978872865387
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_NORMAL2.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978822027986
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_NORMAL2.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978821898085
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_SPECULAR2.PNG.DDS",
+      "size": 699192,
+      "date": 132610978801055784
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/FIREMAN_TOP_SPECULAR2.PNG.DDS.json",
+      "size": 102,
+      "date": 132610978801005916
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/JESS_CASUAL_WALKING_001_D.PNG.DDS",
+      "size": 2796344,
+      "date": 132610978880225875
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/JESS_CASUAL_WALKING_001_D.PNG.DDS.json",
+      "size": 102,
+      "date": 132610978880156059
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/JESS_CASUAL_WALKING_001_N.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978859520623
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/JESS_CASUAL_WALKING_001_N.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978859470761
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_BUMP_V2.PNG.DDS",
+      "size": 1556896,
+      "date": 132610978825866624
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_BUMP_V2.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978825806785
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_UV_V5.PNG.DDS",
+      "size": 1556896,
+      "date": 132610978832123459
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_UV_V5.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978832053295
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/UCB_BOTTOM3_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132610978817559253
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/UCB_BOTTOM3_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132610978817409396
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/UCB_EMRS_DECALS_DFF_BASECOLOR.PNG.DDS",
+      "size": 1398256,
+      "date": 132610978806069836
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/UCB_EMRS_DECALS_DFF_BASECOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132610978806019971
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/WHEEL_BASECOLOR.PNG.DDS",
+      "size": 699192,
+      "date": 132610978819708472
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene1/TEXTURE/WHEEL_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132610978819583488
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/model/model.CFG",
+      "size": 34,
+      "date": 132611021088790186
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/model/Neoflyscene2.bin",
+      "size": 6692846,
+      "date": 132611022985261785
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/model/Neoflyscene2.gltf",
+      "size": 74934,
+      "date": 132611022985331589
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/model/Neoflyscene2.xml",
+      "size": 319,
+      "date": 132611021459600222
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/sim.cfg",
+      "size": 106,
+      "date": 132611020923759103
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/CHVAN_BODY_1_BASECOLOR.PNG.DDS",
+      "size": 11184952,
+      "date": 132611022890075264
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/CHVAN_BODY_1_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132611022889945622
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/CHVAN_BODY_1_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132611022815631757
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/CHVAN_BODY_1_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022815442257
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/CHVAN_CHROME_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132611022700486490
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/CHVAN_CHROME_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022700396727
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/DEFAULTMATERIAL_BASE_COLOR.JPG.DDS",
+      "size": 2796344,
+      "date": 132611022769213568
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/DEFAULTMATERIAL_BASE_COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132611022769143751
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/DEFAULTMATERIAL_METALLIC.JPG.DDS",
+      "size": 2796344,
+      "date": 132611022891531364
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/DEFAULTMATERIAL_METALLIC.JPG.DDS.json",
+      "size": 191,
+      "date": 132611022891441602
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/DEFAULTMATERIAL_NORMAL_OPENGL.JPG.DDS",
+      "size": 5592560,
+      "date": 132611022733114824
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/DEFAULTMATERIAL_NORMAL_OPENGL.JPG.DDS.json",
+      "size": 160,
+      "date": 132611022733015086
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022804505962
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022804406229
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132611022892059946
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132611022891990131
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022747196329
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022747036313
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_SPECULAR.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022869360253
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BEARD_SPECULAR.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022869290440
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BODY_DIFFUSE.PNG.DDS",
+      "size": 5592560,
+      "date": 132611022866168794
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BODY_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022866079032
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BODY_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132611022849353516
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BODY_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022849253769
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BOTTOM_DIFFUSE.PNG.DDS",
+      "size": 349680,
+      "date": 132611022742367879
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BOTTOM_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022742273067
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BOTTOM_GLOSS.PNG.DDS",
+      "size": 174904,
+      "date": 132611022731219893
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BOTTOM_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132611022731160056
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BOTTOM_NORMAL.PNG.DDS",
+      "size": 349680,
+      "date": 132611022700815610
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_BOTTOM_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022700755769
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022729793712
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022729733865
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132611022728168060
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132611022728088270
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022760112845
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022760032867
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_SPECULAR.PNG.DDS",
+      "size": 699192,
+      "date": 132611022750744586
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_EYEWEAR_SPECULAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132611022750669708
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022703603221
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022703543379
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132611022704091911
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132611022704022100
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022805488423
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022805408636
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_SPECULAR.PNG.DDS",
+      "size": 699192,
+      "date": 132611022730950616
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_HAT_SPECULAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132611022730900746
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_MOUSTACHE_DIFFUSE.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022753234250
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_MOUSTACHE_DIFFUSE.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022753044243
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_MOUSTACHE_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132611022761602055
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_MOUSTACHE_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132611022761542036
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_MOUSTACHE_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022740847768
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_MOUSTACHE_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022740772902
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_SHOES_DIFFUSE.PNG.DDS",
+      "size": 699192,
+      "date": 132611022744587586
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_SHOES_DIFFUSE.PNG.DDS.json",
+      "size": 102,
+      "date": 132611022744507803
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_SHOES_GLOSS.PNG.DDS",
+      "size": 699192,
+      "date": 132611022698317240
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_SHOES_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132611022698227468
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_SHOES_NORMAL.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022761052178
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_SHOES_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022760922259
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_DIFFUSE2.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022867814390
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_DIFFUSE2.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022867714651
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_GLOSS.PNG.DDS",
+      "size": 1398276,
+      "date": 132611022859775627
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_GLOSS.PNG.DDS.json",
+      "size": 191,
+      "date": 132611022859725758
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_NORMAL2.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022740198011
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_NORMAL2.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022740118016
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_SPECULAR2.PNG.DDS",
+      "size": 699192,
+      "date": 132611022702177040
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/FIREMAN_TOP_SPECULAR2.PNG.DDS.json",
+      "size": 102,
+      "date": 132611022702107222
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_BUMP_V2.PNG.DDS",
+      "size": 1556896,
+      "date": 132611022745606845
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_BUMP_V2.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022745526846
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_UV_V5.PNG.DDS",
+      "size": 1556896,
+      "date": 132611022759173307
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/PARAMEDICS_RAMSDEN_STRETCHERTROLLEY_UV_V5.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022759083274
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/RP_SOPHIA_ANIMATED_003_DIF.JPG.DDS",
+      "size": 44739384,
+      "date": 132611022979895838
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/RP_SOPHIA_ANIMATED_003_DIF.JPG.DDS.json",
+      "size": 102,
+      "date": 132611022979237594
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/RP_SOPHIA_ANIMATED_003_NORM.JPG.DDS",
+      "size": 89478640,
+      "date": 132611022846411209
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/RP_SOPHIA_ANIMATED_003_NORM.JPG.DDS.json",
+      "size": 160,
+      "date": 132611022844815336
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/T_3D SCAN WOMAN 9_D.JPG.DDS",
+      "size": 11184952,
+      "date": 132611022727599579
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/T_3D SCAN WOMAN 9_D.JPG.DDS.json",
+      "size": 102,
+      "date": 132611022727440003
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/T_3D SCAN WOMAN 9_G.JPG.DDS",
+      "size": 11184952,
+      "date": 132611022802351720
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/T_3D SCAN WOMAN 9_G.JPG.DDS.json",
+      "size": 102,
+      "date": 132611022802192193
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/T_3D SCAN WOMAN 9_N.JPG.DDS",
+      "size": 22369776,
+      "date": 132611022697688576
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/T_3D SCAN WOMAN 9_N.JPG.DDS.json",
+      "size": 160,
+      "date": 132611022697484046
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/UCB_BOTTOM3_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132611022737528171
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/UCB_BOTTOM3_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132611022737408232
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/UCB_EMRS_DECALS_DFF_BASECOLOR.PNG.DDS",
+      "size": 1398256,
+      "date": 132611022705577939
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/UCB_EMRS_DECALS_DFF_BASECOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132611022705518099
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/WHEEL_BASECOLOR.PNG.DDS",
+      "size": 699192,
+      "date": 132611022739208099
+    },
+    {
+      "path": "SimObjects/MISC/Neoflyscene2/TEXTURE/WHEEL_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132611022739108168
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/model/model.CFG",
+      "size": 32,
+      "date": 132613568130261649
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/model/Neoflysea1.bin",
+      "size": 23332136,
+      "date": 132613583011322318
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/model/Neoflysea1.gltf",
+      "size": 10830,
+      "date": 132613583011491868
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/model/Neoflysea1.xml",
+      "size": 553,
+      "date": 132612647906422308
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/sim.cfg",
+      "size": 104,
+      "date": 132612647098294407
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/TEXTURE/T_3D SCAN WOMAN 9_D.JPG.DDS",
+      "size": 11184952,
+      "date": 132613582950155235
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/TEXTURE/T_3D SCAN WOMAN 9_D.JPG.DDS.json",
+      "size": 102,
+      "date": 132613582950015601
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/TEXTURE/T_3D SCAN WOMAN 9_G.JPG.DDS",
+      "size": 11184952,
+      "date": 132613582967905128
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/TEXTURE/T_3D SCAN WOMAN 9_G.JPG.DDS.json",
+      "size": 102,
+      "date": 132613582967775012
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/TEXTURE/T_3D SCAN WOMAN 9_N.JPG.DDS",
+      "size": 22369776,
+      "date": 132613582924646438
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea1/TEXTURE/T_3D SCAN WOMAN 9_N.JPG.DDS.json",
+      "size": 160,
+      "date": 132613582924337262
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/model/model.CFG",
+      "size": 32,
+      "date": 132633379062047572
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/model/Neoflysea2.bin",
+      "size": 1158940,
+      "date": 132633390285431588
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/model/Neoflysea2.gltf",
+      "size": 4982,
+      "date": 132633390285441564
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/model/Neoflysea2.xml",
+      "size": 315,
+      "date": 132633378908973346
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/sim.cfg",
+      "size": 104,
+      "date": 132633377500372897
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/TEXTURE/CWOM0004.PNG.DDS",
+      "size": 174904,
+      "date": 132633390284149961
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/TEXTURE/CWOM0004.PNG.DDS.json",
+      "size": 102,
+      "date": 132633390284130007
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/TEXTURE/HUMANO_02CASUAL_18_DIFFUSE03.JPG.DDS",
+      "size": 699192,
+      "date": 132633390283770971
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysea2/TEXTURE/HUMANO_02CASUAL_18_DIFFUSE03.JPG.DDS.json",
+      "size": 102,
+      "date": 132633390283760991
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/model/model.CFG",
+      "size": 43,
+      "date": 132607635120713932
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/model/Neoflysinkingboat1.bin",
+      "size": 1582008,
+      "date": 132608254936649052
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/model/Neoflysinkingboat1.gltf",
+      "size": 9662,
+      "date": 132608254936688947
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/model/Neoflysinkingboat1.xml",
+      "size": 338,
+      "date": 132608063842961859
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/sim.cfg",
+      "size": 123,
+      "date": 132607634296962423
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/TEXTURE/10050_SALISBURY_OAK_05.JPG.DDS",
+      "size": 696688,
+      "date": 132608254934415033
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/TEXTURE/10050_SALISBURY_OAK_05.JPG.DDS.json",
+      "size": 102,
+      "date": 132608254934375135
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/TEXTURE/MASK_READY.JPG.DDS",
+      "size": 10667808,
+      "date": 132608254933138446
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat1/TEXTURE/MASK_READY.JPG.DDS.json",
+      "size": 102,
+      "date": 132608254933048688
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/model/model.CFG",
+      "size": 43,
+      "date": 132607635167734932
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/model/Neoflysinkingboat2.bin",
+      "size": 1584420,
+      "date": 132608254955164683
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/model/Neoflysinkingboat2.gltf",
+      "size": 9992,
+      "date": 132608254955244459
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/model/Neoflysinkingboat2.xml",
+      "size": 338,
+      "date": 132608253926192968
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/sim.cfg",
+      "size": 123,
+      "date": 132607634339673724
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/TEXTURE/10050_SALISBURY_OAK_05.JPG.DDS",
+      "size": 696688,
+      "date": 132608254952930657
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/TEXTURE/10050_SALISBURY_OAK_05.JPG.DDS.json",
+      "size": 102,
+      "date": 132608254952890759
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/TEXTURE/MASK_READY.JPG.DDS",
+      "size": 10667808,
+      "date": 132608254951853536
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat2/TEXTURE/MASK_READY.JPG.DDS.json",
+      "size": 102,
+      "date": 132608254951763779
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/model/model.CFG",
+      "size": 43,
+      "date": 132607635213523860
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/model/Neoflysinkingboat3.bin",
+      "size": 1584636,
+      "date": 132608254975710913
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/model/Neoflysinkingboat3.gltf",
+      "size": 9986,
+      "date": 132608254975780731
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/model/Neoflysinkingboat3.xml",
+      "size": 338,
+      "date": 132608254347592719
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/sim.cfg",
+      "size": 123,
+      "date": 132607634389526884
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/TEXTURE/10050_SALISBURY_OAK_05.JPG.DDS",
+      "size": 696688,
+      "date": 132608254973441461
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/TEXTURE/10050_SALISBURY_OAK_05.JPG.DDS.json",
+      "size": 102,
+      "date": 132608254973396516
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/TEXTURE/MASK_READY.JPG.DDS",
+      "size": 10667808,
+      "date": 132608254972229244
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat3/TEXTURE/MASK_READY.JPG.DDS.json",
+      "size": 102,
+      "date": 132608254972139484
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat4/model/model.CFG",
+      "size": 43,
+      "date": 132607635287119778
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat4/model/Neoflysinkingboat4.bin",
+      "size": 76759326,
+      "date": 132608295268427754
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat4/model/Neoflysinkingboat4.gltf",
+      "size": 11506,
+      "date": 132608295268462714
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat4/model/Neoflysinkingboat4.xml",
+      "size": 338,
+      "date": 132608288695317981
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat4/sim.cfg",
+      "size": 123,
+      "date": 132607634438802331
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat4/TEXTURE/BOATFISHINGWOODENALDEBURGH_2M_8K_01_U1_V1.JPG.DDS",
+      "size": 44739384,
+      "date": 132608295182538856
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat4/TEXTURE/BOATFISHINGWOODENALDEBURGH_2M_8K_01_U1_V1.JPG.DDS.json",
+      "size": 102,
+      "date": 132608295181880617
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/model/model.CFG",
+      "size": 43,
+      "date": 132607635332639521
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/model/Neoflysinkingboat5.bin",
+      "size": 32280642,
+      "date": 132608286412922066
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/model/Neoflysinkingboat5.gltf",
+      "size": 11555,
+      "date": 132608286412971936
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/model/Neoflysinkingboat5.xml",
+      "size": 338,
+      "date": 132608288830269879
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/sim.cfg",
+      "size": 123,
+      "date": 132607638319108217
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/BASE_MATERIAL_OTHER_01_D_TGA.PNG.DDS",
+      "size": 11064,
+      "date": 132608286369090508
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/BASE_MATERIAL_OTHER_01_D_TGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132608286369040644
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/BASE_MATERIAL_OTHER_01_N_TGA.PNG.DDS",
+      "size": 349680,
+      "date": 132608286369270036
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/BASE_MATERIAL_OTHER_01_N_TGA.PNG.DDS.json",
+      "size": 160,
+      "date": 132608286369220161
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/BASE_MATERIAL_OTHER_01_R_TGA.PNG.DDS",
+      "size": 349700,
+      "date": 132608286368970833
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/BASE_MATERIAL_OTHER_01_R_TGA.PNG.DDS.json",
+      "size": 191,
+      "date": 132608286368920965
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/REGISTRATION_OTHER_D_TGA.PNG.DDS",
+      "size": 174904,
+      "date": 132608286370018028
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/REGISTRATION_OTHER_D_TGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132608286369968161
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_01_D_TGA.PNG.DDS",
+      "size": 174904,
+      "date": 132608286369619097
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_01_D_TGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132608286369579199
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_02_D_TGA.PNG.DDS",
+      "size": 174904,
+      "date": 132608286371783431
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_02_D_TGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132608286371738475
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_03_D_TGA.PNG.DDS",
+      "size": 174904,
+      "date": 132608286361375956
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_03_D_TGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132608286361336059
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_03_R_TGA.PNG.DDS",
+      "size": 22020,
+      "date": 132608286363455469
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_03_R_TGA.PNG.DDS.json",
+      "size": 191,
+      "date": 132608286363405596
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_04_D_TGA.PNG.DDS",
+      "size": 174904,
+      "date": 132608286360986996
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_04_D_TGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132608286360947108
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_04_R_TGA.PNG.DDS",
+      "size": 22020,
+      "date": 132608286365240813
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_04_R_TGA.PNG.DDS.json",
+      "size": 191,
+      "date": 132608286365200918
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_OTHER_01_D_TGA.PNG.DDS",
+      "size": 699192,
+      "date": 132608286371429310
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_OTHER_01_D_TGA.PNG.DDS.json",
+      "size": 102,
+      "date": 132608286371379442
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_OTHER_01_N_TGA.PNG.DDS",
+      "size": 349680,
+      "date": 132608286370247421
+    },
+    {
+      "path": "SimObjects/MISC/Neoflysinkingboat5/TEXTURE/WOOD_OTHER_01_N_TGA.PNG.DDS.json",
+      "size": 160,
+      "date": 132608286370197553
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/model/model.CFG",
+      "size": 44,
+      "date": 132600493952678069
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/model/Neoflywreckedplane1.bin",
+      "size": 8805246,
+      "date": 132603102952257933
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/model/Neoflywreckedplane1.gltf",
+      "size": 12819,
+      "date": 132603102952307802
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/model/Neoflywreckedplane1.xml",
+      "size": 209,
+      "date": 132600494046435611
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/sim.cfg",
+      "size": 122,
+      "date": 132600493848523347
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/TEXTURE/TEX_0.JPG.DDS",
+      "size": 11184952,
+      "date": 132603102924421898
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/TEXTURE/TEX_0.JPG.DDS.json",
+      "size": 102,
+      "date": 132603102924332144
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/TEXTURE/TEX_1.JPG.DDS",
+      "size": 11184952,
+      "date": 132603102904828841
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/TEXTURE/TEX_1.JPG.DDS.json",
+      "size": 102,
+      "date": 132603102904768993
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/TEXTURE/TEX_2.JPG.DDS",
+      "size": 11184952,
+      "date": 132603102946956937
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane1/TEXTURE/TEX_2.JPG.DDS.json",
+      "size": 102,
+      "date": 132603102946897099
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/model/model.CFG",
+      "size": 44,
+      "date": 132600493056758545
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/model/Neoflywreckedplane2.bin",
+      "size": 173322,
+      "date": 132603102974738172
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/model/Neoflywreckedplane2.gltf",
+      "size": 3782,
+      "date": 132603102974788044
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/model/Neoflywreckedplane2.xml",
+      "size": 211,
+      "date": 132600492938789909
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/sim.cfg",
+      "size": 124,
+      "date": 132600492765089081
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/TEXTURE/MATERIAL_51_BASECOLOR.PNG.DDS",
+      "size": 5592560,
+      "date": 132603102974239510
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/TEXTURE/MATERIAL_51_BASECOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132603102974199614
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/TEXTURE/MATERIAL_51_METALLICROUGHNESS.PNG.DDS",
+      "size": 1398276,
+      "date": 132603102964240966
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/TEXTURE/MATERIAL_51_METALLICROUGHNESS.PNG.DDS.json",
+      "size": 159,
+      "date": 132603102964221015
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/TEXTURE/MATERIAL_51_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132603102967258075
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane2/TEXTURE/MATERIAL_51_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132603102967188258
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/model/model.CFG",
+      "size": 44,
+      "date": 132600490409320851
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/model/Neoflywreckedplane3.bin",
+      "size": 173322,
+      "date": 132603102995817079
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/model/Neoflywreckedplane3.gltf",
+      "size": 3827,
+      "date": 132603102995866950
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/model/Neoflywreckedplane3.xml",
+      "size": 211,
+      "date": 132600490512777388
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/sim.cfg",
+      "size": 124,
+      "date": 132600492646287974
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/TEXTURE/MATERIAL_51_BASECOLOR.PNG.DDS",
+      "size": 5592560,
+      "date": 132603102995448068
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/TEXTURE/MATERIAL_51_BASECOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132603102995358305
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/TEXTURE/MATERIAL_51_METALLICROUGHNESS.PNG.DDS",
+      "size": 1398276,
+      "date": 132603102985619312
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/TEXTURE/MATERIAL_51_METALLICROUGHNESS.PNG.DDS.json",
+      "size": 159,
+      "date": 132603102985579417
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/TEXTURE/MATERIAL_51_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132603102988760904
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane3/TEXTURE/MATERIAL_51_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132603102988691095
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/model/model.CFG",
+      "size": 44,
+      "date": 132600489298281699
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/model/Neoflywreckedplane4.bin",
+      "size": 173868,
+      "date": 132603103017090845
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/model/Neoflywreckedplane4.gltf",
+      "size": 7153,
+      "date": 132603103017160667
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/model/Neoflywreckedplane4.xml",
+      "size": 211,
+      "date": 132600489201736465
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/sim.cfg",
+      "size": 124,
+      "date": 132600492570682326
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/TEXTURE/MATERIAL_51_BASECOLOR.PNG.DDS",
+      "size": 5592560,
+      "date": 132603103016681938
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/TEXTURE/MATERIAL_51_BASECOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132603103016607053
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/TEXTURE/MATERIAL_51_METALLICROUGHNESS.PNG.DDS",
+      "size": 1398276,
+      "date": 132603103006748375
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/TEXTURE/MATERIAL_51_METALLICROUGHNESS.PNG.DDS.json",
+      "size": 159,
+      "date": 132603103006698500
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/TEXTURE/MATERIAL_51_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 132603103009999676
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane4/TEXTURE/MATERIAL_51_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 132603103009879995
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/model/model.CFG",
+      "size": 44,
+      "date": 132603071639428143
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/model/Neoflywreckedplane5.bin",
+      "size": 2643588,
+      "date": 132607509762092336
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/model/Neoflywreckedplane5.gltf",
+      "size": 15465,
+      "date": 132607509762132228
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/model/Neoflywreckedplane5.xml",
+      "size": 211,
+      "date": 132603071587679813
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/sim.cfg",
+      "size": 124,
+      "date": 132603071475560346
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509759603696
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509759533875
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_RIM_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509724914948
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_ENGINE_RIM_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509724855103
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_EXHAUST_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509741940045
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_EXHAUST_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509741870224
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_FINS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509737741022
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_FINS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509737641288
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_FLAPS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509733492272
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_FLAPS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509733432423
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_FUSEL_LODGE_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509720611271
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_FUSEL_LODGE_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509720551429
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509746358221
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509746298377
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_WINGS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509755329943
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_TAIL_WINGS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509755270100
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_WINDOWFRAME_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509750841704
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_WINDOWFRAME_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509750771889
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_WINGS_BASECOLOR.PNG.DDS",
+      "size": 2796344,
+      "date": 132607509729153721
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane5/TEXTURE/AUROPLANE_SMOOTH_M_WINGS_BASECOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132607509729103851
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/model/model.CFG",
+      "size": 44,
+      "date": 132603071817836935
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/model/Neoflywreckedplane6.bin",
+      "size": 261348,
+      "date": 132603103025269318
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/model/Neoflywreckedplane6.gltf",
+      "size": 7715,
+      "date": 132603103025319193
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/model/Neoflywreckedplane6.xml",
+      "size": 211,
+      "date": 132603071975154391
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/sim.cfg",
+      "size": 124,
+      "date": 132603071313089767
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_01.JPG.DDS",
+      "size": 174904,
+      "date": 132603103022222294
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_01.JPG.DDS.json",
+      "size": 102,
+      "date": 132603103022212320
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_02.JPG.DDS",
+      "size": 174920,
+      "date": 132603103024745662
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_02.JPG.DDS.json",
+      "size": 102,
+      "date": 132603103024735691
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_03.JPG.DDS",
+      "size": 43832,
+      "date": 132603103022750883
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_03.JPG.DDS.json",
+      "size": 102,
+      "date": 132603103022701013
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_04.JPG.DDS",
+      "size": 699208,
+      "date": 132603103024127318
+    },
+    {
+      "path": "SimObjects/MISC/neoflywreckedplane6/TEXTURE/TEX_04.JPG.DDS.json",
+      "size": 102,
+      "date": 132603103024117344
+    },
+    {
+      "path": "SimObjects/MISC/Neoflywreckedsubmarine1/model/model.CFG",
+      "size": 48,
+      "date": 132603072494305985
+    },
+    {
+      "path": "SimObjects/MISC/Neoflywreckedsubmarine1/model/Neoflywreckedsubmarine1.bin",
+      "size": 5823168,
+      "date": 132603103058126716
+    },
+    {
+      "path": "SimObjects/MISC/Neoflywreckedsubmarine1/model/Neoflywreckedsubmarine1.gltf",
+      "size": 2891,
+      "date": 132603103058166608
+    },
+    {
+      "path": "SimObjects/MISC/Neoflywreckedsubmarine1/model/Neoflywreckedsubmarine1.xml",
+      "size": 215,
+      "date": 132603073517239632
+    },
+    {
+      "path": "SimObjects/MISC/Neoflywreckedsubmarine1/sim.cfg",
+      "size": 128,
+      "date": 132603072733012630
+    },
+    {
+      "path": "SimObjects/MISC/Neoflywreckedsubmarine1/TEXTURE/SUBUV3COLOR.JPG.DDS",
+      "size": 11184952,
+      "date": 132603103046951546
+    },
+    {
+      "path": "SimObjects/MISC/Neoflywreckedsubmarine1/TEXTURE/SUBUV3COLOR.JPG.DDS.json",
+      "size": 102,
+      "date": 132603103046881733
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{355f97da-d764-44ad-87e2-499881dcc086}">
+	<LODS>
+		<LOD MinSize="0" ModelFile="Neoflycargo_forklift_01.gltf"></LOD>
+	</LODS>
+</ModelInfo>
