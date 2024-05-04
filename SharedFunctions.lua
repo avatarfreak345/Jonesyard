@@ -31,9 +31,55 @@ table.find = function(t1, v)
     end
     return false
 end
+
+function lPrint(txt,x1,y1,clear,tColor,bColor)
+if type(x1) ~= "number" or type(y1) ~= "number" then
+	return "lPrint [x/y not a number]"
+end
+if type(clear) ~= "boolean" then
+	clear = false
+end
+if type(tColor) == "number" then
+	term.setTextColor(tColor)
+end
+if type(bColor) == "number" then
+	term.setBackgroundColor(bColor)
+end
+term.setCursorPos(x1,y1)
+if clear then
+	term.clearLine()
+end
+write(tostring(txt))
+end
+
+function openModem()
+  for _, side in ipairs(peripheral.getNames()) do
+    if peripheral.getType(side) == "modem" then
+      if rednet.isOpen(side) then
+        return true, side
+      else
+        if rednet.open(side) then
+          return true, side
+        end
+      end
+    end
+  end
+  return false, nil
+end
+
+function Cartesian(t1,t2) -- Combine both tables into all possible coordinates: Input >> {1,2,3}, {4,5,6}: Output >> {{1,4},{1,5},{1,6},{2,4},{2,5},{2,6},{3,4},{3,5},{3,6}}
+	local output = {}
+	for i = 1, #t1 do
+		for j = 1, #t2 do
+			table.insert(output, {t1[i], t2[j]})
+		end
+	end
+	return output
+end
+
 --Low Level--
 
---Idiot--
+--Z256--
 
 Retrieve = function()
     local web = http.get("https://pastebin.com/raw/"..pastebinList["Functions"])
@@ -80,16 +126,6 @@ Intersection = function(t1, t2) -- Filter out differences between 2 tables + com
     return output
 end
 
-function Cartesian(t1,t2) -- Combine both tables into all possible coordinates: Input >> {1,2,3}, {4,5,6}: Output >> {{1,4},{1,5},{1,6},{2,4},{2,5},{2,6},{3,4},{3,5},{3,6}}
-	local output = {}
-	for i = 1, #t1 do
-		for j = 1, #t2 do
-			table.insert(output, {t1[i], t2[j]})
-		end
-	end
-	return output
-end
-
 openModem = function()
     for _, side in ipairs(peripheral.getNames()) do
         if peripheral.getType(side) == "modem" then
@@ -106,26 +142,6 @@ openModem = function()
 end
 
 --Avatarfreak345--
-
-function lPrint(txt,x1,y1,clear,tColor,bColor)
-if type(x1) ~= "number" or type(y1) ~= "number" then
-	return "lPrint [x/y not a number]"
-end
-if type(clear) ~= "boolean" then
-	clear = false
-end
-if type(tColor) == "number" then
-	term.setTextColor(tColor)
-end
-if type(bColor) == "number" then
-	term.setBackgroundColor(bColor)
-end
-term.setCursorPos(x1,y1)
-if clear then
-	term.clearLine()
-end
-write(tostring(txt))
-end
 
 function menu(tbl,tableX,tableY,tColor,bColor,tblSelectorIcon,center)
 local selected = 1
@@ -165,20 +181,4 @@ end
 until nil
 
 return tbl[selected]
-end
-
-function openModem()
---Thanks ChatGPT--
-  for _, side in ipairs(peripheral.getNames()) do
-    if peripheral.getType(side) == "modem" then
-      if rednet.isOpen(side) then
-        return true, side
-      else
-        if rednet.open(side) then
-          return true, side
-        end
-      end
-    end
-  end
-  return false, nil
 end
