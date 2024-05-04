@@ -13,7 +13,7 @@ local pastebinList = { -- Usage: " print(pastebinList["Functions"]) " Output >> 
     ["BPEditor"] = "Eucr5bsP"
 }
 
---Shared and top lvl required--
+--Top Level--
 
 function compatabilityLayer()
 LinuxWritePrint = lPrint
@@ -21,7 +21,92 @@ headlessGet = get
 Scroll = ScrollV3
 ScrollV2 = ScrollV3
 end
---Idiot--
+
+--Mid Level (Functions that are relied on by low lvl functions)--
+table.find = function(t1, v)
+    for i=1, #t1 do
+        if t1[i] == v then
+            return true, i
+        end
+    end
+    return false
+end
+
+function lPrint(txt,x1,y1,clear,tColor,bColor)
+if type(x1) ~= "number" or type(y1) ~= "number" then
+	return "lPrint [x/y not a number]"
+end
+if type(clear) ~= "boolean" then
+	clear = false
+end
+if type(tColor) == "number" then
+	term.setTextColor(tColor)
+end
+if type(bColor) == "number" then
+	term.setBackgroundColor(bColor)
+end
+term.setCursorPos(x1,y1)
+if clear then
+	term.clearLine()
+end
+write(tostring(txt))
+end
+
+function openModem()
+  for _, side in ipairs(peripheral.getNames()) do
+    if peripheral.getType(side) == "modem" then
+      if rednet.isOpen(side) then
+        return true, side
+      else
+        if rednet.open(side) then
+          return true, side
+        end
+      end
+    end
+  end
+  return false, nil
+end
+
+function Cartesian(t1,t2) -- Combine both tables into all possible coordinates: Input >> {1,2,3}, {4,5,6}: Output >> {{1,4},{1,5},{1,6},{2,4},{2,5},{2,6},{3,4},{3,5},{3,6}}
+	local output = {}
+	for i = 1, #t1 do
+		for j = 1, #t2 do
+			table.insert(output, {t1[i], t2[j]})
+		end
+	end
+	return output
+end
+
+function get(url,location)
+	if url == nil or location == nil then
+		return false
+	end
+    -- Add a cache buster so that spam protection is re-checked
+    local cacheBuster = ("%x"):format(math.random(0, 2 ^ 30))
+    local response, err = http.get(
+        "https://pastebin.com/raw/" .. textutils.urlEncode(url) .. "?cb=" .. cacheBuster
+    )
+
+    if response then
+        -- If spam protection is activated, we get redirected to /paste with Content-Type: text/html
+        local headers = response.getResponseHeaders()
+        if not headers["Content-Type"] or not headers["Content-Type"]:find("^text/plain") then
+            return
+        end
+        local sResponse = response.readAll()
+        response.close()
+        local h = fs.open(location , "w")
+        h.write(sResponse)
+        h.close()
+        return true
+    else
+        return false
+    end
+end
+
+--Low Level--
+
+--Z256--
 
 Retrieve = function()
     local web = http.get("https://pastebin.com/raw/"..pastebinList["Functions"])
@@ -68,16 +153,6 @@ Intersection = function(t1, t2) -- Filter out differences between 2 tables + com
     return output
 end
 
-function Cartesian(t1,t2) -- Combine both tables into all possible coordinates: Input >> {1,2,3}, {4,5,6}: Output >> {{1,4},{1,5},{1,6},{2,4},{2,5},{2,6},{3,4},{3,5},{3,6}}
-	local output = {}
-	for i = 1, #t1 do
-		for j = 1, #t2 do
-			table.insert(output, {t1[i], t2[j]})
-		end
-	end
-	return output
-end
-
 openModem = function()
     for _, side in ipairs(peripheral.getNames()) do
         if peripheral.getType(side) == "modem" then
@@ -93,36 +168,7 @@ openModem = function()
     return false, nil
 end
 
-table.find = function(t1, v)
-    for i=1, #t1 do
-        if t1[i] == v then
-            return true, i
-        end
-    end
-    return false
-end
-
 --Avatarfreak345--
-
-function lPrint(txt,x1,y1,clear,tColor,bColor)
-if type(x1) ~= "number" or type(y1) ~= "number" then
-	return "lPrint [x/y not a number]"
-end
-if type(clear) ~= "boolean" then
-	clear = false
-end
-if type(tColor) == "number" then
-	term.setTextColor(tColor)
-end
-if type(bColor) == "number" then
-	term.setBackgroundColor(bColor)
-end
-term.setCursorPos(x1,y1)
-if clear then
-	term.clearLine()
-end
-write(tostring(txt))
-end
 
 function menu(tbl,tableX,tableY,tColor,bColor,tblSelectorIcon,center)
 local selected = 1
@@ -162,20 +208,4 @@ end
 until nil
 
 return tbl[selected]
-end
-
-function openModem()
---Thanks ChatGPT--
-  for _, side in ipairs(peripheral.getNames()) do
-    if peripheral.getType(side) == "modem" then
-      if rednet.isOpen(side) then
-        return true, side
-      else
-        if rednet.open(side) then
-          return true, side
-        end
-      end
-    end
-  end
-  return false, nil
 end
