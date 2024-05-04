@@ -18,8 +18,8 @@ local pastebinList = { -- Usage: " print(pastebinList["Functions"]) " Output >> 
 function compatabilityLayer()
 LinuxWritePrint = lPrint
 headlessGet = get
-Scroll = ScrollV3
-ScrollV2 = ScrollV3
+Scroll = menu
+ScrollV2 = menu
 end
 
 --Mid Level (Functions that are relied on by low lvl functions)--
@@ -170,7 +170,7 @@ end
 
 --Avatarfreak345--
 
-function menu(tbl,tableX,tableY,tColor,bColor,tblSelectorIcon,center)
+function menu(tbl,_,_,tColor,bColor,tableX,tableY,tblSelectorIcon,center)
 local selected = 1
 local tmp = {["w"] = 1,["s"] = -1}
 
