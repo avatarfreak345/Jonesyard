@@ -1,5 +1,5 @@
 local x,y = term.getSize()
-local version = "03.05.2024.0001"
+local version = "2.7.8"
 local update = false
 local runningProgram = shell.getRunningProgram()
 local t, tx = term, textutils
