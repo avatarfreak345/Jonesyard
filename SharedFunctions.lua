@@ -13,7 +13,7 @@ local pastebinList = { -- Usage: " print(pastebinList["Functions"]) " Output >> 
     ["BPEditor"] = "Eucr5bsP"
 }
 
---Shared and top lvl required--
+--Top Level--
 
 function compatabilityLayer()
 LinuxWritePrint = lPrint
@@ -21,6 +21,18 @@ headlessGet = get
 Scroll = ScrollV3
 ScrollV2 = ScrollV3
 end
+
+--Mid Level (Functions that are relied on by low lvl functions)--
+table.find = function(t1, v)
+    for i=1, #t1 do
+        if t1[i] == v then
+            return true, i
+        end
+    end
+    return false
+end
+--Low Level--
+
 --Idiot--
 
 Retrieve = function()
@@ -91,15 +103,6 @@ openModem = function()
         end
     end
     return false, nil
-end
-
-table.find = function(t1, v)
-    for i=1, #t1 do
-        if t1[i] == v then
-            return true, i
-        end
-    end
-    return false
 end
 
 --Avatarfreak345--
