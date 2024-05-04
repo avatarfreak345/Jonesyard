@@ -34,20 +34,20 @@ end
 
 function lPrint(txt,x1,y1,clear,tColor,bColor)
 if type(x1) ~= "number" or type(y1) ~= "number" then
-	return "lPrint [x/y not a number]"
+    return "lPrint [x/y not a number]"
 end
 if type(clear) ~= "boolean" then
-	clear = false
+    clear = false
 end
 if type(tColor) == "number" then
-	term.setTextColor(tColor)
+    term.setTextColor(tColor)
 end
 if type(bColor) == "number" then
-	term.setBackgroundColor(bColor)
+    term.setBackgroundColor(bColor)
 end
 term.setCursorPos(x1,y1)
 if clear then
-	term.clearLine()
+    term.clearLine()
 end
 write(tostring(txt))
 end
@@ -68,19 +68,19 @@ function openModem()
 end
 
 function Cartesian(t1,t2) -- Combine both tables into all possible coordinates: Input >> {1,2,3}, {4,5,6}: Output >> {{1,4},{1,5},{1,6},{2,4},{2,5},{2,6},{3,4},{3,5},{3,6}}
-	local output = {}
-	for i = 1, #t1 do
-		for j = 1, #t2 do
-			table.insert(output, {t1[i], t2[j]})
-		end
-	end
-	return output
+    local output = {}
+    for i = 1, #t1 do
+        for j = 1, #t2 do
+            table.insert(output, {t1[i], t2[j]})
+        end
+    end
+    return output
 end
 
 function get(url,location)
-	if url == nil or location == nil then
-		return false
-	end
+    if url == nil or location == nil then
+        return false
+    end
     -- Add a cache buster so that spam protection is re-checked
     local cacheBuster = ("%x"):format(math.random(0, 2 ^ 30))
     local response, err = http.get(
@@ -175,35 +175,35 @@ local selected = 1
 local tmp = {["w"] = 1,["s"] = -1}
 
 if type(center) ~= "boolean" then
-	center = false
+    center = false
 end
 
 if tonumber(tableX) == nil or tonumber(tableY) == nil then
-	if center == false then
-		return "menu [tableX/tableY = nil & center == false]"
-	end
+    if center == false then
+        return "menu [tableX/tableY = nil & center == false]"
+    end
 end
 
 if type(tbl) ~= "table" then
-	return "menu [tbl must be a table]"
+    return "menu [tbl must be a table]"
 end
 
 if tblSelectorIcon == nil or type(tblSelectorIcon) ~= "table" or #tblSelectorIcon ~= 2 then
-	tblSelectorIcon = {"[","]"}
+    tblSelectorIcon = {"[","]"}
 end
 
 repeat
 selected = (selected < 1) and #tbl or (selected > #tbl) and 1 or selected
 if center then
-	lPrint(tblSelectorIcon[1]..tbl[selected]..tblSelectorIcon[2],"write",x/2-string.len(tbl[selected])/2,y/2,true,colors.yellow,colors.black) else
-	lPrint(tblSelectorIcon[1]..tbl[selected]..tblSelectorIcon[2],"write",tableX,tableY,true,colors.yellow,colors.black)
+    lPrint(tblSelectorIcon[1]..tbl[selected]..tblSelectorIcon[2],"write",x/2-string.len(tbl[selected])/2,y/2,true,colors.yellow,colors.black) else
+    lPrint(tblSelectorIcon[1]..tbl[selected]..tblSelectorIcon[2],"write",tableX,tableY,true,colors.yellow,colors.black)
 end
 local _,char = os.pullEvent("char")
 if char ~= "c" then
-	if tmp[char] then
-		selected = selected+tmp[char] 
-	end else
-	break
+    if tmp[char] then
+        selected = selected+tmp[char] 
+    end else
+    break
 end
 until nil
 
