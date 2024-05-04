@@ -32,7 +32,7 @@ table.find = function(t1, v)
     return false
 end
 
-function lPrint(txt,x1,y1,clear,tColor,bColor)
+function lPrint(txt,_,x1,y1,tColor,bColor,clear)
 if type(x1) ~= "number" or type(y1) ~= "number" then
     return "lPrint [x/y not a number]"
 end
@@ -208,4 +208,30 @@ end
 until nil
 
 return tbl[selected]
+end
+
+function statusBar(x1, y1, greenColor, redColor, min, max, current, length)
+    if type(min) ~= "number" or type(max) ~= "number" or type(current) ~= "number" or type(length) ~= "number" then
+        return "statusBar [min/max/current/length not equal to number]"
+    end
+    lPrint(tostring(current),nil,1,1,true,colors.purple)
+    os.pullEvent("key")
+    current = (current < 0) and 0 or (current > max) and max or current
+    lPrint(string.rep(" ", length), nil, x1, y1, nil, nil, redColor or colors.red)
+    lPrint(string.rep(" ", math.floor((current - min) / (max - min) * length)), term, x1, y1, nil, nil, greenColor or colors.green)
+    
+    term.setBackgroundColor(colors.black)
+end
+
+function Input(txt,format,clear,x1,y1,tColor,bColor)
+if type(x1) == "number" and type(y1) == "number" then
+    if clear then
+        lPrint(tostring(txt),"write",x1,y1,tColor,bColor,true) else
+        lPrint(tostring(txt),"write",x1,y1,tColor,bColor)
+    end
+end
+if type(format) = "string" then
+    return read(format) else
+    return read()
+end
 end
