@@ -12,7 +12,13 @@ local pastebinList = { -- Usage: " print(pastebinList["Functions"]) " Output >> 
     ["Autobuilder"] = "3ay0CwYP",
     ["BPEditor"] = "Eucr5bsP"
 }
---New--
+--Idiot--
+function compatabilityLayer()
+LinuxWritePrint = lPrint
+headlessGet = get
+Scroll = ScrollV3
+ScrollV2 = ScrollV3
+end
 
 Retrieve = function()
     local web = http.get("https://pastebin.com/raw/"..pastebinList["Functions"])
@@ -92,6 +98,8 @@ table.find = function(t1, v)
     end
     return false
 end
+
+--Avatarfreak345--
 
 function lPrint(txt,x1,y1,clear,tColor,bColor)
 if type(x1) ~= "number" or type(y1) ~= "number" then
