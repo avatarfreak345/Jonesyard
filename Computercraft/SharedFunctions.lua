@@ -116,13 +116,14 @@ Retrieve = function()
         if f then local current = f.readAll() f.close() else return false end
         if latest ~= current then -- OUT OF SYNC
             local f = fs.open(fs.getDir(runningProgram).."/"..runningProgram, "w")
-            f.write(latest) f.close()
+            if f then f.write(latest) f.close() end
+            require("Functions")
         end
     else
         return false
     end
 end
-if http and update then grabLatest() end
+if http and update then Retrieve() end
 
 Union = function(t1,t2) -- Filter out duplicate table items between 2 tables + combines: Input >> {1,1,2,2,3,3}, {4,4,5,5,6,6}: Output >> {1,2,3,4,5,6}
     local filter, output = {}, {}
