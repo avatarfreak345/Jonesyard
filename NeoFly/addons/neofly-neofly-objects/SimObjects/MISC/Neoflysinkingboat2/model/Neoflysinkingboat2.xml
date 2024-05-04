@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{5160a3bd-05ae-4412-a721-12e3cb21a9fb}">
+	<LODS>
+		<LOD MinSize="0" ModelFile="Neoflysinkingboat2.gltf"></LOD>
+	</LODS>
+	<Animation name="Neoflysinkingboat2nla1a" guid="5160a3bd-05ae-4412-a721-12e3cb210001" type="Standard" typeParam="Autoplay" />
+</ModelInfo>

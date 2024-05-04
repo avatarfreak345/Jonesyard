@@ -1,0 +1,11 @@
+{
+  "LocalisationPackage": {
+    "Language": "en-US",
+    "Strings": {
+      "4e7d2898-1fc3-4a77-a846-203a550b2d60": "ADJUST for 1000 RPM or less",
+      "5659c67f-c1ae-429d-8376-661c8b4fb720": "Textron Aviation",
+      "7b631b24-1668-40b9-b1b4-07336a07165d": "In 1977, Cessna set out to modernize their exceedingly-popular light aircraft Model 150, and the result was the 152 -- a new two-seat monoplane that quickly became a general aviation classic and one of the most popular trainer aircraft of the post-World War II era.<br><br>During the 152's full production run (1977-1985), Cessna manufactured over 7,500 aircraft, between its primary factory in Wichita, Kansas and affiliated Reims Aviation of France.<br><br>Widely recognized as a workhorse aircraft, the 152 came stock with a more powerful piston-engine than its predecessor, an improved 'gull wing' propeller, and changes to its powerplant and cowling for reduced noise and vibration.<br><br>While the 152 is forgiving of mistakes and easy to fly -- with a high-wing configuration that translates to excellent cockpit visibility -- it does put the 'light' in light aircraft, a trait that may add to the challenge of breezy crosswind flight, but also makes for generally docile handling and an overall enjoyable journey, whether you're a seasoned pilot of just learning to fly.",
+      "873c5f5c-ba25-41ae-af52-9d8fc8c31d33": "Cessna 152"
+    }
+  }
+}

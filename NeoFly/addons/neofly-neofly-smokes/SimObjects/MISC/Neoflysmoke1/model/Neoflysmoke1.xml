@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo>
+	<LODS>
+		<LOD MinSize="5"  ModelFile="Neoflysmoke1.gltf"></LOD>
+		<LOD MinSize="2"  ModelFile="Neoflysmoke1.gltf"></LOD>		
+		<LOD MinSize="0"  ModelFile="Neoflysmoke1.gltf"></LOD>
+	</LODS>
+</ModelInfo>
+<ModelBehaviors>
+	<Include ModelBehaviorFile="Asobo\Generic\FX.xml"/>
+	<Component ID="Neoflysmoke1"  Node="neoflysmokeobj">
+		<UseTemplate Name="ASOBO_GT_FX">
+			<FX_GUID>{F55914D1-37E1-4374-812B-92E734013AD4}</FX_GUID> 
+			<FX_CODE>1 0 &gt;</FX_CODE> 
+			<FX_OFFSET_X>0</FX_OFFSET_X>
+			<FX_OFFSET_Y>0</FX_OFFSET_Y>
+			<FX_OFFSET_Z>0</FX_OFFSET_Z> 
+			<FX_ROTATION_OFFSET_P>0</FX_ROTATION_OFFSET_P>
+			<FX_ROTATION_OFFSET_B>0</FX_ROTATION_OFFSET_B>
+			<FX_ROTATION_OFFSET_H>0</FX_ROTATION_OFFSET_H>
+		</UseTemplate>
+	</Component>	
+</ModelBehaviors>

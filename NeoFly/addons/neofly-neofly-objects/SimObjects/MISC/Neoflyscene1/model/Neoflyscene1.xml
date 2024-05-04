@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{6e7436ae-b607-4e00-8c5a-ad744f6fdfff}">
+	<LODS>
+		<LOD MinSize="0" ModelFile="Neoflyscene1.gltf"></LOD>
+	</LODS>
+	<Animation name="Neoflyscene1nla1a" guid="6e7436ae-b607-4e00-8c5a-ad744f6f0001" type="Standard" typeParam="Autoplay" />
+</ModelInfo>

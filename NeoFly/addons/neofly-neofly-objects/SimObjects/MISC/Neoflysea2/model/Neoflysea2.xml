@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{476afabc-e44f-479f-a563-b17bd755bfff}">
+	<LODS>
+		<LOD MinSize="0" ModelFile="Neoflysea2.gltf"></LOD>
+	</LODS>
+	<Animation name="Neoflysea2nla1a" guid="476afabc-e44f-479f-a563-b17bd7550001" type="Standard" typeParam="Autoplay" />
+</ModelInfo>

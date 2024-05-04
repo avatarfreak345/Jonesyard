@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo>
+	<LODS>
+		<LOD MinSize="5"  ModelFile="NeoflyWaterDropWhite.gltf"></LOD>
+		<LOD MinSize="2"  ModelFile="NeoflyWaterDropWhite.gltf"></LOD>		
+		<LOD MinSize="0"  ModelFile="NeoflyWaterDropWhite.gltf"></LOD>
+	</LODS>
+</ModelInfo>
+<ModelBehaviors>
+	<Include ModelBehaviorFile="Asobo\Generic\FX.xml"/>
+	<Component ID="NeoflyWaterDropWhite"  Node="neoflysmokeobj">
+		<UseTemplate Name="ASOBO_GT_FX">
+			<FX_GUID>{B6E10A04-EC5E-4778-A15E-9C3FE8C7CA02}</FX_GUID> 
+			<FX_CODE>1 0 &gt;</FX_CODE> 
+			<FX_OFFSET_X>0</FX_OFFSET_X>
+			<FX_OFFSET_Y>0</FX_OFFSET_Y>
+			<FX_OFFSET_Z>0</FX_OFFSET_Z> 
+			<FX_ROTATION_OFFSET_P>0</FX_ROTATION_OFFSET_P>
+			<FX_ROTATION_OFFSET_B>0</FX_ROTATION_OFFSET_B>
+			<FX_ROTATION_OFFSET_H>0</FX_ROTATION_OFFSET_H>
+		</UseTemplate>
+	</Component>	
+</ModelBehaviors>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{bf6a07ec-7617-441e-998f-6a0c81704825}">
+	<LODS>
+		<LOD MinSize="0" ModelFile="Neoflycargo00.gltf"></LOD>
+	</LODS>
+</ModelInfo>
