@@ -12,13 +12,16 @@ local pastebinList = { -- Usage: " print(pastebinList["Functions"]) " Output >> 
     ["Autobuilder"] = "3ay0CwYP",
     ["BPEditor"] = "Eucr5bsP"
 }
---Idiot--
+
+--Shared and top lvl required--
+
 function compatabilityLayer()
 LinuxWritePrint = lPrint
 headlessGet = get
 Scroll = ScrollV3
 ScrollV2 = ScrollV3
 end
+--Idiot--
 
 Retrieve = function()
     local web = http.get("https://pastebin.com/raw/"..pastebinList["Functions"])
@@ -108,8 +111,12 @@ end
 if type(clear) ~= "boolean" then
 	clear = false
 end
-term.setTextColor(tColor)
-term.setBackgroundColor(bColor)
+if type(tColor) == "number" then
+	term.setTextColor(tColor)
+end
+if type(bColor) == "number" then
+	term.setBackgroundColor(bColor)
+end
 term.setCursorPos(x1,y1)
 if clear then
 	term.clearLine()
@@ -172,5 +179,3 @@ function openModem()
   end
   return false, nil
 end
-
-lPrint("Test",1,1,true,colors.yellow,colors.green)
