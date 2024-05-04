@@ -77,6 +77,33 @@ function Cartesian(t1,t2) -- Combine both tables into all possible coordinates: 
 	return output
 end
 
+function get(url,location)
+	if url == nil or location == nil then
+		return false
+	end
+    -- Add a cache buster so that spam protection is re-checked
+    local cacheBuster = ("%x"):format(math.random(0, 2 ^ 30))
+    local response, err = http.get(
+        "https://pastebin.com/raw/" .. textutils.urlEncode(url) .. "?cb=" .. cacheBuster
+    )
+
+    if response then
+        -- If spam protection is activated, we get redirected to /paste with Content-Type: text/html
+        local headers = response.getResponseHeaders()
+        if not headers["Content-Type"] or not headers["Content-Type"]:find("^text/plain") then
+            return
+        end
+        local sResponse = response.readAll()
+        response.close()
+        local h = fs.open(location , "w")
+        h.write(sResponse)
+        h.close()
+        return true
+    else
+        return false
+    end
+end
+
 --Low Level--
 
 --Z256--
