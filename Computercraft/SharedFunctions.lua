@@ -77,6 +77,58 @@ function Cartesian(t1,t2) -- Combine both tables into all possible coordinates: 
     return output
 end
 
+function readLinesFromFile(file,start,stop)
+local lines = {}
+local h = fs.open(file , "r")
+local i = 1
+repeat
+local tmp = h.readLine()
+if i >= start and i <= stop then
+    table.insert(lines,tmp)
+end
+if i > stop then
+    break
+end
+i = i+1
+until nil
+return lines
+end
+
+function Confliction(fileName,fileLocation)
+term.clear()
+lPrint("File confliction!",write,x/2-string.len("File confliction!")/2,1,colors.red,colors.black,true)
+lPrint("File: "..fileName.." exists at: "..fileLocation,write,x/2-string.len("File: "..fileName.." exists at: "..fileLocation)/2,y/2,colors.yellow,colors.black,true)
+lPrint("Overwrite?",write,1,y-2,colors.gray,colors.black)
+lPrint("C to confirm",write,x-string.len("C to confirm"),y-2,colors.gray,colors.black)
+local option = menu({"Yes","No","Maybe"},nil,nil,colors.white,colors.black,1,y-1,{"[","]"},false)
+return option
+end
+
+function getHub(pathRepo, localFilePath,flag)
+    if type(pathRepo) ~= "string" or type(localFilePath) ~= "string" then
+        return "getHub [pathRepo/localFilePath invalid]"
+    end
+    if string.lower(flag) ~= "y" and fs.exists(localFilePath) then
+        local v = fs.open(".tmp/tab" , "w")
+        local lines = readLinesFromFile("Functions.lua",98,104)
+        for i = 1,#lines do
+            v.writeLine(lines[i])
+        end
+        v.close() else
+        fs.move(localFilePath , ".archive/"..localFilePath)
+    end
+    local githubFileUrl = "https://raw.githubusercontent.com/" .. pathRepo
+    local request = http.get(githubFileUrl)
+    if request then
+        local response = request.getResponseCode()
+        if response == 200 then
+            local h = fs.open(localFilePath, "w")
+            h.write(request.readAll())
+            h.close()
+        end
+    end
+end
+
 function get(url,location)
     if url == nil or location == nil then
         return false
@@ -173,7 +225,7 @@ end
 
 function menu(tbl,_,_,tColor,bColor,tableX,tableY,tblSelectorIcon,center)
 local selected = 1
-local tmp = {["w"] = 1,["s"] = -1}
+local tmp = {[200] = -1, [17]  = -1, [31] = 1, [208] = 1}
 
 if type(center) ~= "boolean" then
     center = false
@@ -197,12 +249,12 @@ repeat
 selected = (selected < 1) and #tbl or (selected > #tbl) and 1 or selected
 if center then
     lPrint(tblSelectorIcon[1]..tbl[selected]..tblSelectorIcon[2],"write",x/2-string.len(tbl[selected])/2,y/2,true,colors.yellow,colors.black) else
-    lPrint(tblSelectorIcon[1]..tbl[selected]..tblSelectorIcon[2],"write",tableX,tableY,true,colors.yellow,colors.black)
+    lPrint(tblSelectorIcon[1]..tbl[selected]..tblSelectorIcon[2],"write",tableX,tableY,tColor,bColor,true)
 end
-local _,char = os.pullEvent("char")
-if char ~= "c" then
-    if tmp[char] then
-        selected = selected+tmp[char] 
+local _,key = os.pullEvent("key")
+if key ~= keys.c then
+    if tmp[key] then
+        selected = selected+tmp[key] 
     end else
     break
 end
@@ -231,7 +283,7 @@ if type(x1) == "number" and type(y1) == "number" then
         lPrint(tostring(txt),"write",x1,y1,tColor,bColor)
     end
 end
-if type(format) = "string" then
+if type(format) == "string" then
     return read(format) else
     return read()
 end
